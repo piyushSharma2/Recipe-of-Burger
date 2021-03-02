@@ -1,7 +1,4 @@
-# Burger
-## A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.
-
-**Recipe Of Burger**
+# Recipe Of Burger
 
 1. First, boil all the vegetables, except onion, until soft. Pressure cooking them or boiling them should do the trick. Make sure you cook the potatoes separately.
 
